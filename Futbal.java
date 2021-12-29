@@ -1,3 +1,5 @@
+package Futbal;
+
 import java.util.Random;
 import java.util.ArrayList;
 import java.io.IOException;
@@ -166,6 +168,8 @@ public class Futbal
     }
     
     
-    
+    public void vypis() {
+        System.out.println(goly);
+    }
    
 }
