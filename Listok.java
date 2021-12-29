@@ -1,3 +1,5 @@
+package Futbal;
+
 
 
 public class Listok
@@ -28,6 +30,10 @@ public class Listok
     
     public int getZostatok() {
         return this.zostatokja;
+    }
+    
+    public void vypis() {
+        System.out.println(riadok);
     }
     
     
