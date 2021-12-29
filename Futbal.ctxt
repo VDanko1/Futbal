@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Futbal
+comment0.text=\r\n\ Trieda\ Futbal\ sl\u00FA\u017Ei\ na\ odohranie\ futbaloveho\ zapasu,\ vypise\ informacie\ o\ zapase/och,\ \r\n\ nasledne\ zapisanie\ do\ suboru\ a\ vypisanie\ vitaza\ ligy\r\n\ \u00BB\u2026\r\n\ obsahuje\ ArrayList\ t\u00EDmov\r\n\r\n\ @author\ \ \ \u00ABVladimir\ Danko\u00BB\r\n\ @version\ \ \u00AB6.1.2022\u00BB\r\n
+comment1.params=
+comment1.target=Futbal()
+comment10.params=
+comment10.target=void\ vypisInfoZapas2()
+comment11.params=fileName
+comment11.target=void\ zapisDoSuboru(java.lang.String)
+comment2.params=
+comment2.target=void\ generujTimy()
+comment3.params=
+comment3.target=void\ vypisTimy()
+comment4.params=
+comment4.target=void\ vypisSpecialnyHrac()
+comment5.params=
+comment5.target=void\ odohrajZapas()
+comment6.params=
+comment6.target=void\ odohrajZapas2()
+comment7.params=
+comment7.target=void\ dnesHraju()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=void\ vypisInfoZapas()
+numComments=12

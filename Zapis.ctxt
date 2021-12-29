@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Zapis
+comment1.params=fileName
+comment1.target=Zapis(java.lang.String)
+comment2.params=meno\ vek\ peniaze
+comment2.target=void\ zapisDivak(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ readDivak()
+numComments=4

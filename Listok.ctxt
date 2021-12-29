@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Listok
+comment1.params=meno\ vek\ zostatokja
+comment1.target=Listok(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getMeno()
+comment3.params=
+comment3.target=int\ getVek()
+comment4.params=
+comment4.target=int\ getZostatok()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Miesto
+comment1.params=
+comment1.target=Miesto()
+comment1.text=\r\n\ Kon\u0161truktory\ objektov\ triedy\ Miesto.\r\n
+comment2.params=
+comment2.target=TypyObsadeni\ getTypObsadenia()
+comment3.params=typObsadenia
+comment3.target=void\ setTypObsadenia(TypyObsadeni)
+comment4.params=
+comment4.target=int\ getCena()
+numComments=5

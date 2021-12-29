@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tribunka
+comment1.params=
+comment1.target=Tribunka()
+comment2.params=
+comment2.target=void\ vypisTribunu()
+comment3.params=i\ j
+comment3.target=void\ kupListok(int,\ int)
+comment4.params=i\ j
+comment4.target=void\ RezervujListok(int,\ int)
+comment5.params=i\ j
+comment5.target=int\ getMiestoCena(int,\ int)
+numComments=6

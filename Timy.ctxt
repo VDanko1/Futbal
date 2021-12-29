@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Timy
+comment1.params=
+comment1.target=Timy()
+comment2.params=i
+comment2.target=void\ pridajBody(int)
+comment3.params=
+comment3.target=int\ getBody()
+comment4.params=
+comment4.target=java.lang.String\ getNazov()
+comment5.params=
+comment5.target=java.lang.String\ getSpecialnyHrac()
+comment6.params=i
+comment6.target=java.lang.String\ dnesHrajuTimy(int)
+comment7.params=i
+comment7.target=java.lang.String\ specialnyHrac(int)
+numComments=8
